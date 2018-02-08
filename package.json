@@ -1,0 +1,28 @@
+{
+  "author": "Matthew Fernando Garcia",
+  "dependencies": {
+    "zen-observable": "^0.7.1"
+  },
+  "description": "Convert an async function to an Observable.",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "jest": "^22.2.1",
+    "xo": "^0.18.2"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "name": "async-to-observable",
+  "repository": "https://github.com/wtgtybhertgeghgtwtg/async-to-observable",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "version": "1.0.0",
+  "xo": {
+    "space": true
+  }
+}
